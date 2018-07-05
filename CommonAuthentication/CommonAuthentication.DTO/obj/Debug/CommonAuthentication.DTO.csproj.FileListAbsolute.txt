@@ -1,0 +1,16 @@
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\bin\Debug\EmployeeSystem.DTO.dll
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\bin\Debug\EmployeeSystem.DTO.pdb
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\CommonAuthentication.DTO.csproj.CoreCompileInputs.cache
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\EmployeeSystem.DTO.dll
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\EmployeeSystem.DTO.pdb
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\CommonAuthentication.DTO\bin\Debug\EmployeeSystem.DTO.dll
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\CommonAuthentication.DTO\bin\Debug\EmployeeSystem.DTO.pdb
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\CommonAuthentication.DTO\obj\Debug\CommonAuthentication.DTO.csproj.CoreCompileInputs.cache
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\CommonAuthentication.DTO\obj\Debug\EmployeeSystem.DTO.dll
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\CommonAuthentication.DTO\obj\Debug\EmployeeSystem.DTO.pdb
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\CommonAuthentication.DTO\obj\Debug\CommonAuthentication.DTO.csprojResolveAssemblyReference.cache
+D:\Tutorial\CommonAuthentication\CommonAuthentication.DTO\obj\Debug\CommonAuthentication.DTO.csproj.CoreCompileInputs.cache
+D:\Tutorial\CommonAuthentication\CommonAuthentication.DTO\bin\Debug\CommonAuthentication.DTO.dll
+D:\Tutorial\CommonAuthentication\CommonAuthentication.DTO\bin\Debug\CommonAuthentication.DTO.pdb
+D:\Tutorial\CommonAuthentication\CommonAuthentication.DTO\obj\Debug\CommonAuthentication.DTO.dll
+D:\Tutorial\CommonAuthentication\CommonAuthentication.DTO\obj\Debug\CommonAuthentication.DTO.pdb

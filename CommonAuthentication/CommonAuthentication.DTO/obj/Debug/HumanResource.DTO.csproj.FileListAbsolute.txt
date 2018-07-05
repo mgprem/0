@@ -1,0 +1,11 @@
+C:\Rajesh\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\bin\Debug\EmployeeSystem.DTO.dll
+C:\Rajesh\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\bin\Debug\EmployeeSystem.DTO.pdb
+C:\Rajesh\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\HumanResource.DTO.csprojResolveAssemblyReference.cache
+C:\Rajesh\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\HumanResource.DTO.csproj.CoreCompileInputs.cache
+C:\Rajesh\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\EmployeeSystem.DTO.dll
+C:\Rajesh\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\EmployeeSystem.DTO.pdb
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\bin\Debug\EmployeeSystem.DTO.dll
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\bin\Debug\EmployeeSystem.DTO.pdb
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\HumanResource.DTO.csproj.CoreCompileInputs.cache
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\EmployeeSystem.DTO.dll
+D:\Tutorial\HumanResourceManagement\HumanResourceManagement\HumanResourceManagement\EmployeeSystem.DTO\obj\Debug\EmployeeSystem.DTO.pdb
